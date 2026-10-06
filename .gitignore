@@ -1,0 +1,5 @@
+# Source mirrors and run outputs are never tracked (Chandra AGENTS.md); only their provenance is.
+ref-code/*
+!ref-code/PROVENANCE.md
+runs/
+__pycache__/

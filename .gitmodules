@@ -1,0 +1,4 @@
+[submodule "Chandra"]
+	path = Chandra
+	url = https://github.com/FoAKTEE/Chandra.git
+	branch = GUI_VSC
